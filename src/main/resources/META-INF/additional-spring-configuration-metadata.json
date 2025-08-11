@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.show-sql'"
+  },
+  {
+    "name": "jpa.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.properties.hibernate.dialect'"
+  },
+  {
+    "name": "spring.config.active.on-profile",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.config.active.on-profile'"
+  }
+]}
